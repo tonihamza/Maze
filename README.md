@@ -1,5 +1,7 @@
 ## Maze Game - VBA in Excel
 
+![Title](Images/Title.png)
+
 Welcome to **Maze Game**, a pixel-art style maze game created using VBA in Excel! The game features a character that navigates through a dark maze with limited visibility, needing to find both a key and an exit to win. The game is built entirely using Excel cells for the maze layout, and movement is controlled with the arrow keys.
 
 ### Game Overview
@@ -7,6 +9,8 @@ Welcome to **Maze Game**, a pixel-art style maze game created using VBA in Excel
 - **Objective**: Navigate through a maze, find a hidden key, and reach the exit.
 - **Challenge**: The maze is mostly dark, with light only around your character, making navigation more difficult.
 - **Key Feature**: You must first locate the key before you can exit the maze.
+
+<p align="center"> <img src="Images/Image1.png" alt="Game Screenshot 1" height="300" /> <img src="Images/Image2.png" alt="Game Screenshot 2" height="300" /> </p>
 
 ### Game Files
 
